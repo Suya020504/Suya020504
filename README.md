@@ -262,12 +262,11 @@
 
 <sub>데이터 분석과 AI 서비스 기획 과정에서 내린 결정과 배운 점을 기록합니다.</sub>
 
-<!-- BLOG-POST-LIST:START -->
-- [&#91;UNIKER 1기 / 팀 트리온&#93; 추천 앱에서 첫 대화와 성장의 루프까지 &#124; 최종발표 전 마지막 기록](https://blog.naver.com/shuai020504/224395458944) <sub>2026.08.31</sub>
-- [&#91;UNIKER 1기 / 팀 트리온&#93; 추천 앱에서 첫 대화를 만드는 서비스로 — &#x27;너의 교수님은?&#x27; 최종 개발 기록](https://blog.naver.com/shuai020504/224387880966) <sub>2026.08.23</sub>
-- [&#91;UNIKER 1기&#93; 사용자 흐름을 고친 뒤, 서비스를 설명할 구조까지 정리한 이유 &#124; AI 취업 Q&amp;A·4회차 강의 기록](https://blog.naver.com/shuai020504/224380755918) <sub>2026.08.17</sub>
-- [&#91;UNIKER 1기&#93; WEEK7 MVP 구현 뒤, 더 만들기보다 사용자 흐름을 고친 이유 &#124; &#x27;너의 교수님은?&#x27; 멘토링 기록](https://blog.naver.com/shuai020504/224373290339) <sub>2026.08.09</sub>
-- [&#91;UNIKER 1기&#93; WEEK 6 점수를 버리고 공식 근거를 택한 이유 &#124; 중간점검 MVP 발표 기록](https://blog.naver.com/shuai020504/224368402761) <sub>2026.08.05</sub>
+<!-- BLOG-POST-LIST:START -->- [[UNIKER 1기 / 팀 트리온] 추천 앱에서 첫 대화와 성장의 루프까지 | 최종발표 전 마지막 기록](https://blog.naver.com/shuai020504/224395458944?fromRss=true&trackingCode=rss) <sub>2026.08.31</sub>
+- [[UNIKER 1기 / 팀 트리온] 추천 앱에서 첫 대화를 만드는 서비스로 — ‘너의 교수님은?’ 최종 개발 기록](https://blog.naver.com/shuai020504/224387880966?fromRss=true&trackingCode=rss) <sub>2026.08.23</sub>
+- [[UNIKER 1기] 사용자 흐름을 고친 뒤, 서비스를 설명할 구조까지 정리한 이유 | AI 취업 Q&amp;A·4회차 강의 기록](https://blog.naver.com/shuai020504/224380755918?fromRss=true&trackingCode=rss) <sub>2026.08.17</sub>
+- [[UNIKER 1기] WEEK7 MVP 구현 뒤, 더 만들기보다 사용자 흐름을 고친 이유 | ‘너의 교수님은?’ 멘토링 기록](https://blog.naver.com/shuai020504/224373290339?fromRss=true&trackingCode=rss) <sub>2026.08.09</sub>
+- [[UNIKER 1기] WEEK 6 점수를 버리고 공식 근거를 택한 이유 | 중간점검 MVP 발표 기록](https://blog.naver.com/shuai020504/224368402761?fromRss=true&trackingCode=rss) <sub>2026.08.05</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>네이버 블로그 RSS로 12시간마다 자동 갱신됩니다 · <a href="https://blog.naver.com/shuai020504">블로그 전체 보기</a></sub>
