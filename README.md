@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="https://suya0504.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-suya0504.vercel.app-B9E6FA?style=flat-square&amp;logo=githubpages&amp;logoColor=white&amp;labelColor=334155" alt="Portfolio"/></a>
   <a href="https://blog.naver.com/shuai020504"><img src="https://img.shields.io/badge/Naver%20Blog-shuai020504-A8E6CF?style=flat-square&amp;logo=naver&amp;logoColor=white&amp;labelColor=334155" alt="Naver Blog"/></a>
   <a href="https://www.linkedin.com/in/%EC%97%B0%EC%88%98-%EC%9D%B4-b75ba3414/"><img src="https://img.shields.io/badge/LinkedIn-Lee%20Yeonsoo-B9E6FA?style=flat-square&amp;labelColor=334155" alt="LinkedIn"/></a>
   <a href="mailto:shuai020504@naver.com"><img src="https://img.shields.io/badge/Email-shuai020504%40naver.com-A8E6CF?style=flat-square&amp;labelColor=334155" alt="Email"/></a>
   <br/>
+  <a href="https://suya0504.vercel.app/"><img src="https://img.shields.io/badge/Portfolio%20Website-suya0504.vercel.app-B9E6FA?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&amp;labelColor=334155" alt="Portfolio website: suya0504.vercel.app"/></a>
   <a href="#-awards"><img src="https://img.shields.io/badge/2026%20Awards-12%20Wins-7FD8BE?style=for-the-badge&amp;labelColor=334155" alt="2026 Awards: 12 wins"/></a>
 </p>
 <p align="center"><sub><a href="#-about">About</a> · <a href="#-awards">Awards</a> · <a href="#-press">Press</a> · <a href="#-featured-projects">Projects</a> · <a href="#-activities--education">Activities</a> · <a href="#-tech-stack">Stack</a> · <a href="#-latest-posts">Blog</a> · <a href="#-contact">Contact</a></sub></p>
@@ -26,6 +26,8 @@
 수학·식품자원경제학을 바탕으로 관광·안전·복지 데이터를 분석합니다.<br/>
 분석 결과를 해석해 사용자의 다음 행동을 돕는 서비스 흐름을 설계합니다.<br/>
 프로젝트에 따라 팀장·PM·분석을 맡았습니다.
+
+> 🌐 **포트폴리오 사이트 바로가기 →** [suya0504.vercel.app](https://suya0504.vercel.app/) &nbsp;<sub>프로젝트 사례 · 수상 · 발표 · 보도를 한곳에 정리했습니다.</sub>
 
 | No. | How I Work | 이렇게 일합니다 | 사례 |
 |:-:|:--|:--|:--|
